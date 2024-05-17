@@ -4,3 +4,6 @@
 [submodule "jarana-service2-ms"]
 	path = jarana-service2-ms
 	url = https://github.com/jarana-wm/jarana-service2-ms.git
+[submodule "jarana-gateway"]
+	path = jarana-gateway
+	url = https://github.com/jarana-wm/jarana-gateway.git
