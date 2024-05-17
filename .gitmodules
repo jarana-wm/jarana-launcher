@@ -1,0 +1,6 @@
+[submodule "jarana-service1-ms"]
+	path = jarana-service1-ms
+	url = https://github.com/jarana-wm/jarana-service1-ms.git
+[submodule "jarana-service2-ms"]
+	path = jarana-service2-ms
+	url = https://github.com/jarana-wm/jarana-service2-ms.git
